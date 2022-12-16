@@ -225,6 +225,11 @@ main {
     z-index: 999;
 }
 
+.btn-social:hover {
+    color: rgb(223, 6, 19);
+    z-index: 999;
+}
+
 .showcase-container-red {
     background-color: rgb(223, 6, 19);
     padding: 2em;
